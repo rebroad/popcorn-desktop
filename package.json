@@ -84,7 +84,7 @@
     "rimraf": "2.x.x",
     "sanitizer": "0.x.x",
     "semver": "5.x.x",
-    "send": "0.16.x",
+    "send": "0.19.x",
     "socks-proxy-agent": "^5.0.0",
     "srt-to-vtt": "^1.1",
     "tar": "4.4.8",
